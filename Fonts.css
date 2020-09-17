@@ -1,0 +1,14 @@
+@font-face {
+  font-family: RobotoRegular;
+  src: url(./fonts/Roboto-Regular-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-family: RobotoBolt;
+  src: url(./fonts/Roboto-Bolt-webfont.woff) format("woff");
+}
+
+@font-face {
+  font-family: PtSansCapbolt;
+  src: url(./fonts/PTC75F-webfont.woff) format("woff");
+}
